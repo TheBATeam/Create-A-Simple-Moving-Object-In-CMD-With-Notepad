@@ -1,0 +1,4 @@
+Simply Run the Animation.bat file, and after the testing - Edit and explore the code inside
+the simple batch file.
+
+-kvc
